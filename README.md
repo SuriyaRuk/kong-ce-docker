@@ -86,6 +86,8 @@ If you deploy Kong on a remote host we can access Konga via ssh tunnel
 ssh -L 1337:127.0.0.1:1337 username@kong.example.com
 ```
 
+Now you can access kona on [localhost](http://localhost:1337)
+
 ### Acccess Kong Manager securely
 
 If you deploy Kong on a remote host we can access Konga via ssh tunnel
